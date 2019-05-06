@@ -5,7 +5,6 @@ import Container from 'react-bootstrap/Container'
 import "../src/style.css"
 
 
-
 class App extends Component {
 
   state = {
@@ -83,6 +82,8 @@ class App extends Component {
   );
 }
 }
+
+
 
 export default App;
 
