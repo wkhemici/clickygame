@@ -6,8 +6,6 @@ import "../src/style.css"
 
 
 
-
-
 class App extends Component {
 
   state = {
