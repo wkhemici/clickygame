@@ -1,7 +1,14 @@
 body {
     display: flex;
     min-height: 100vh;
-    flex-direction: column;
+    /* flex-direction: column; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Permanent Marker', cursive;
+    background-color: aliceblue;
+    text-align: center;
+    color:hotpink;
   };
 
   main {
