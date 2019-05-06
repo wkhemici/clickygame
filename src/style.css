@@ -1,7 +1,7 @@
 body {
     display: flex;
     min-height: 100vh;
-    /* flex-direction: column; */
+    /* flexg-direction: column; */
     display: flex;
     flex-direction: row;
     justify-content: space-around;
